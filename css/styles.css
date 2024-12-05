@@ -1,0 +1,111 @@
+.footer-wraper 
+{
+    text-transform: uppercase;
+    background-color: aliceblue;
+    color: white;
+}
+#industries 
+{
+    width: 100%;
+    background-image: url('../images/white-abstract-background-design_23-2148825582.avif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+#works
+{
+    width: 100%;
+    background-image: url('../images/businesswomen-working-at-desks-2154482-2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+#banner
+{
+    width: 100%;
+    background-image: url('../images/1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+#banner .banner-fader 
+{
+    height: 80vh;
+    background: rgb(0, 0, 0);
+    opacity: 0.845437;       
+}
+#marketeers
+{
+    width: 100%;
+    background-image: url('../images/3.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    height: 70vh;
+    background-attachment: fixed;
+}
+#marketeers-2
+{
+    width: 100%;
+    background-image: url('../images/livestock.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    background-attachment: fixed;
+    height: 70vh;
+}
+#locations 
+{
+    width: 100%;
+    background-image: url('../images/marketeers.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+.highlights-cover
+{
+    width: 100%;
+    background-image: url('../images/2.jpg');
+    background-repeat:repeat-y;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+.highlights-cover .highlight-card
+{
+    width: 100%;
+    background-image: url('../images/4.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    object-fit: cover;
+}
+.highlight-fader
+{
+    padding-top: 15%;
+    padding-bottom: 15%;
+    color: rgb(238, 238, 238);
+    background-color: black;
+    margin: 0;
+    opacity: 0.787878;
+}
+.nav-menu-slide
+{
+    width: 100%;
+    background-image: url('../images/4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+}
